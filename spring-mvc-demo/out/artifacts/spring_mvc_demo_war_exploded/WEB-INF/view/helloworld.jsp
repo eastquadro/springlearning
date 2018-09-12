@@ -7,14 +7,18 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-
+<head>
+    <title>Hello World - Input Form</title>
+</head>
 <body>
 
-Hello Wolrd of Spring!
+    <form action="processFormVersionThree" method="get">
 
-<br><br>
+        <input type="text" name="studentName"
+            placeholder="What's your name?"/>
+        <input type="submit">
 
-Student name: ${param.studentName}
+    </form>
 
 </body>
 </html>
