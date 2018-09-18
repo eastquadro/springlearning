@@ -21,7 +21,6 @@
 
         <form:select path="country">
             <form:options itmes="${student.countryOptions}"/>
-
         </form:select>
 
         <br/><br/>
