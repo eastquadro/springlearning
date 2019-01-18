@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2430abe-1756-4ba1-8939-c265e9841203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hb-01-one-to-one-uni/com/luv2code/hibernate/demo/CreateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hb-01-one-to-one-uni/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,7 +114,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,17 +281,18 @@
       <workItem from="1547730570795" duration="1136000" />
       <workItem from="1547732161820" duration="259000" />
       <workItem from="1547732477284" duration="599000" />
+      <workItem from="1547793749021" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11446000" />
+    <option name="totallyTimeSpent" value="12044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
