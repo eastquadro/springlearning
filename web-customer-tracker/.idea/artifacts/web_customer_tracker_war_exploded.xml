@@ -7,6 +7,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="web-customer-tracker" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="postgresql-42.2.5" />
+          <element id="library" level="project" name="spring-aop-5.0.8.RELEASE-javadoc" />
+          <element id="library" level="project" name="jboss-logging-3.3.0.Final" />
+        </element>
       </element>
     </root>
   </artifact>
